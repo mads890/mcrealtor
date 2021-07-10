@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea87e42a.chunk.css",
+    "main.js": "/static/js/main.cb7999e7.chunk.js",
+    "main.js.map": "/static/js/main.cb7999e7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.032acc59.js",
+    "runtime-main.js.map": "/static/js/runtime-main.032acc59.js.map",
+    "static/js/2.e7658406.chunk.js": "/static/js/2.e7658406.chunk.js",
+    "static/js/2.e7658406.chunk.js.map": "/static/js/2.e7658406.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ea87e42a.chunk.css.map": "/static/css/main.ea87e42a.chunk.css.map",
+    "static/js/2.e7658406.chunk.js.LICENSE.txt": "/static/js/2.e7658406.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/carnival.406349ab.jpg",
+    "static/media/footer-img.png": "/static/media/footer-img.084af9f4.png",
+    "static/media/mike-photo.jpg": "/static/media/mike-photo.f1d835bc.jpg",
+    "static/media/skyline.jpeg": "/static/media/skyline.32f8e3f4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.032acc59.js",
+    "static/js/2.e7658406.chunk.js",
+    "static/css/main.ea87e42a.chunk.css",
+    "static/js/main.cb7999e7.chunk.js"
+  ]
+}
